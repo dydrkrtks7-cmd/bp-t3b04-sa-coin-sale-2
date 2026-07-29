@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangam-club-note.cheongdam-shirts-zone.xyz/sitemap.xml
